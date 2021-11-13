@@ -14,9 +14,9 @@ I have a passion for learning and sharing my knowledge with others a public as p
 
 ---
 
-## Tailwind Master Project 👊
+## Timer/Countdown Landing Page 👊
 
-This is a master project. Clone this project to start any tailwind-based project.
+Project description goes here......
 
 
 ### License 🔒
