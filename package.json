@@ -1,0 +1,26 @@
+{
+  "name": "timer_landing_page",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss src/style.css -o public/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdRubelRana/master_tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdRubelRana/master_tailwind/issues"
+  },
+  "homepage": "https://github.com/MdRubelRana/master_tailwind#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "postcss-cli": "^9.0.2",
+    "tailwindcss": "^2.2.19"
+  }
+}
