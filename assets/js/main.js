@@ -1,5 +1,5 @@
 
-$("#D").countdown('2021/12/12',function(event){
+$("#D").countdown('2023/12/15', function (event) {
     $(this).html(event.strftime('%D'))
     $("#H").html(event.strftime('%H'))
     $("#M").html(event.strftime('%M'))
