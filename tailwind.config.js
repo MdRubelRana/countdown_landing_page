@@ -9,8 +9,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'left-image': "url('../assets/img/food1.png')",
-        'right-image': "url('../assets/img/food2.png')",
+        'left-image': "url('../../assets/img/food1.png')",
+        'right-image': "url('../../assets/img/food2.png')",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],

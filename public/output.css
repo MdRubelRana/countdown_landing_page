@@ -725,11 +725,11 @@ video {
 }
 
 .bg-left-image {
-  background-image: url('../assets/img/food1.png');
+  background-image: url('../../assets/img/food1.png');
 }
 
 .bg-right-image {
-  background-image: url('../assets/img/food2.png');
+  background-image: url('../../assets/img/food2.png');
 }
 
 .from-gray-50 {
