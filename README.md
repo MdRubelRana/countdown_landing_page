@@ -16,7 +16,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
 
 ## Timer/Countdown Landing Page 👊
 
-Project description goes here......
+This is a very minimal coming soon landing page. I implement countdown timer to count the opening day.
 
 
 ### License 🔒

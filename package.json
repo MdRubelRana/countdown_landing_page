@@ -4,19 +4,19 @@
   "description": "<div align=\"center\">",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss -i src/style.css -o public/output.css -w"
+    "build": "postcss src/style.css -o public/output.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MdRubelRana/timer_landing_page.git"
+    "url": "git+https://github.com/MdRubelRana/countdown_landing_page.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MdRubelRana/timer_landing_page/issues"
+    "url": "https://github.com/MdRubelRana/countdown_landing_page/issues"
   },
-  "homepage": "https://github.com/MdRubelRana/timer_landing_page#readme",
+  "homepage": "https://github.com/MdRubelRana/countdown_landing_page#readme",
   "dependencies": {
     "animate.css": "^4.1.1",
     "autoprefixer": "^10.4.0",
