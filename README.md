@@ -23,7 +23,7 @@ This is a very minimal coming soon landing page with a countdown timer.
 [![Website](https://img.shields.io/badge/Website%20%20-View%20Demo-green?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://mdrubelrana.github.io/countdown_landing_page/) <br>
 
 
-[![Behance link](https://img.shields.io/badge/Click%20me%20to%20-View%20Repository-FFA500?style=flat-square&logo=rss&logoColor=white&target=_blank)](https://github.com/MdRubelRana/countdown_landing_page)
+[![Repository link](https://img.shields.io/badge/Click%20me%20to%20-View%20Repository-FFA500?style=flat-square&logo=rss&logoColor=white&target=_blank)](https://github.com/MdRubelRana/countdown_landing_page)
 
 </div>
 
