@@ -31,6 +31,12 @@ This is a very minimal coming soon landing page with countdown timer.
 -   Fully customizable.
 -   Responsive in all device.
 
+### Tools 🔨
+-   Html5
+-   Js
+-   TailwindCSS
+
+
 
 
 ### License 🔒
