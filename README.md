@@ -16,20 +16,20 @@ I have a passion for learning and sharing my knowledge with others. You can see 
 
 ## Timer/Countdown Landing Page 👊
 
-This is a very minimal coming soon landing page with countdown timer.
+This is a very minimal coming soon landing page with a countdown timer.
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website%20%20-View%20Demo-green?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://mdrubelrana.github.io/countdown_landing_page/) <br>
 
 
-[![Android link](https://img.shields.io/badge/Click%20me%20to%20-View%20Repository-FFA500?style=flat-square&logo=rss&logoColor=white)](https://github.com/MdRubelRana/countdown_landing_page)
+[![Behance link](https://img.shields.io/badge/Click%20me%20to%20-View%20Repository-FFA500?style=flat-square&logo=rss&logoColor=white)](https://github.com/MdRubelRana/countdown_landing_page)
 
 </div>
 
 ### Features 📋
 -   Fully customizable.
--   Responsive in all device.
+-   Responsive in all devices.
 
 ### Tools 🔨
 -   Html5
@@ -38,9 +38,14 @@ This is a very minimal coming soon landing page with countdown timer.
 
 
 ### Screenshots 📸
+
+<div align="center">
+
 ![Coming_Soon](https://user-images.githubusercontent.com/33339942/142732796-e328bd01-eac9-4482-9ef6-f940b6470b4f.png)
 
+[![Behance link](https://img.shields.io/badge/Click%20me%20to%20-View%20full%20design-green?style=flat-square-round&logo=behance&logoColor=white)](https://www.behance.net/gallery/131645281/Coming-Soon-Minimal-Landing-Page-UI-Design)
 
+</div>
 
 ### License 🔒
 
@@ -48,6 +53,6 @@ This is a very minimal coming soon landing page with countdown timer.
 
 ---
 
-<h2 align="center"><i>Happy coding!</i>😄 <i>Stay cool!</i> 😎</h2>
+<h3 align="center"><i>Happy coding!</i>😄 <i>Stay cool!</i> 😎</h3>
 
 ---
