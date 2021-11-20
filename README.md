@@ -14,7 +14,7 @@ I have a passion for learning and sharing my knowledge with others. You can see 
 
 ---
 
-## Timer/Countdown Landing Page 👊
+## Countdown Landing Page 👊
 
 This is a very minimal coming soon landing page with a countdown timer.
 
