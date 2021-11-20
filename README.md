@@ -37,6 +37,9 @@ This is a very minimal coming soon landing page with countdown timer.
 -   TailwindCSS
 
 
+### Screenshots 📸
+![Coming_Soon](https://user-images.githubusercontent.com/33339942/142732796-e328bd01-eac9-4482-9ef6-f940b6470b4f.png)
+
 
 
 ### License 🔒
