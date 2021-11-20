@@ -49,7 +49,7 @@ This is a very minimal coming soon landing page with a countdown timer.
 
 ### License 🔒
 
-- Licensed under the [MIT License](LICENSE).
+- Licensed under the [Apache License](LICENSE).
 
 ---
 
